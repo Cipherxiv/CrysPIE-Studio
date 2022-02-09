@@ -12,7 +12,6 @@ import { NavBar2 } from '../components/NavBar2';
 
 const SLIDE_COUNT = 3;
 const slides = Array.from(Array(SLIDE_COUNT).keys());
-
 const SLIDE_COUNT_2 = 4;
 const imgSlide = Array.from(Array(SLIDE_COUNT_2).keys());
 
